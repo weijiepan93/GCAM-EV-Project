@@ -1,0 +1,20 @@
+The first row of a header file is not read.
+
+1,world/+{name}region,region/+{name}ghgpolicy,ghgpolicy/+market,ghgpolicy/+isFixedTax,ghgpolicy/+{year=2020}fixedTax,scenario,scenario/world
+
+2,world/+{name}region,region/+{name}ghgpolicy,ghgpolicy/+market,ghgpolicy/+{year=2020}constraint,ghgpolicy/+{year=2025}constraint,ghgpolicy/+{year=2030}constraint,scenario,scenario/world
+
+3,world/+{name}region,region/+{name}ghgpolicy,ghgpolicy/+market,ghgpolicy/+isFixedTax,ghgpolicy/+{year=2020}fixedTax,ghgpolicy/+{year=2025}fixedTax,ghgpolicy/+{year=2030}fixedTax,ghgpolicy/+{year=2035}fixedTax,scenario,scenario/world
+
+4,world/+{name}region,region/+{name}ghgpolicy,ghgpolicy/+market,ghgpolicy/+{year=1990}fixedTax,ghgpolicy/+{year=2005}fixedTax,ghgpolicy/+{year=2010}fixedTax,ghgpolicy/+{year=2015}fixedTax,ghgpolicy/+{year=2020}fixedTax,ghgpolicy/+{year=2025}fixedTax,ghgpolicy/+{year=2030}fixedTax,ghgpolicy/+{year=2035}fixedTax,ghgpolicy/+{year=2040}fixedTax,ghgpolicy/+{year=2045}fixedTax,ghgpolicy/+{year=2050}fixedTax,ghgpolicy/+{year=2055}fixedTax,ghgpolicy/+{year=2060}fixedTax,ghgpolicy/+{year=2065}fixedTax,ghgpolicy/+{year=2070}fixedTax,ghgpolicy/+{year=2075}fixedTax,ghgpolicy/+{year=2080}fixedTax,ghgpolicy/+{year=2085}fixedTax,ghgpolicy/+{year=2090}fixedTax,ghgpolicy/+{year=2095}fixedTax,ghgpolicy/+{year=2100}fixedTax,scenario,scenario/world
+
+5,world/+{name}region,region/+{name}ghgpolicy,ghgpolicy/+market,ghgpolicy/+isFixedTax,ghgpolicy/+{year=2020}fixedTax,ghgpolicy/+{year=2025}fixedTax,ghgpolicy/+{year=2030}fixedTax,ghgpolicy/+{year=2035}fixedTax,ghgpolicy/+{year=2040}fixedTax,ghgpolicy/+{year=2045}fixedTax,ghgpolicy/+{year=2050}fixedTax,ghgpolicy/+{year=2055}fixedTax,ghgpolicy/+{year=2060}fixedTax,ghgpolicy/+{year=2065}fixedTax,ghgpolicy/+{year=2070}fixedTax,ghgpolicy/+{year=2075}fixedTax,ghgpolicy/+{year=2080}fixedTax,ghgpolicy/+{year=2085}fixedTax,ghgpolicy/+{year=2090}fixedTax,ghgpolicy/+{year=2095}fixedTax,ghgpolicy/+{year=2100}fixedTax,scenario,scenario/world
+
+StubTranTechCost, world/+{name}region, region/+{name}supplysector, supplysector/+{name}tranSubsector, tranSubsector/+{name}stub-technology, stub-technology/+{year}period, period/+{name}minicam-non-energy-input, minicam-non-energy-input/+input-cost, scenario, scenario/world
+
+6, world/+{name}region, region/+{name}supplysector, supplysector/+{name}tranSubsector, tranSubsector/+{name}stub-technology, stub-technology/+{name}minicam-non-energy-input, minicam-non-energy-input/+{year=1990}input-cost,minicam-non-energy-input/+{year=2005}input-cost,minicam-non-energy-input/+{year=2010}input-cost,minicam-non-energy-input/+{year=2015}input-cost,minicam-non-energy-input/+{year=2020}input-cost, minicam-non-energy-input/+{year=2025}input-cost,minicam-non-energy-input/+{year=2030}input-cost,minicam-non-energy-input/+{year=2035}input-cost,minicam-non-energy-input/+{year=2040}input-cost,minicam-non-energy-input/+{year=2045}input-cost,minicam-non-energy-input/+{year=2050}input-cost,minicam-non-energy-input/+{year=2055}input-cost,minicam-non-energy-input/+{year=2060}input-cost,minicam-non-energy-input/+{year=2065}input-cost,minicam-non-energy-input/+{year=2070}input-cost,minicam-non-energy-input/+{year=2075}input-cost,minicam-non-energy-input/+{year=2080}input-cost,minicam-non-energy-input/+{year=2085}input-cost,minicam-non-energy-input/+{year=2090}input-cost,minicam-non-energy-input/+{year=2095}input-cost,minicam-non-energy-input/+{year=2100}input-cost,scenario, scenario/world
+
+
+StubTechCost, world/+{name}region, region/+{name}supplysector, supplysector/+{name}tranSubsector, tranSubsector/+{name}stub-technology, stub-technology/+{year}period, period/+{name}minicam-non-energy-input, minicam-non-energy-input/+input-cost, scenario, scenario/world
+
+StubTechShrwt, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}stub-technology, stub-technology/+{year}period, period/+share-weight, scenario, scenario/world

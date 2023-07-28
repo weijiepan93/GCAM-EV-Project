@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="AK">
+            <ghgpolicy name="CO2">
+                <market>AK</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">36.5</fixedTax>
+                <fixedTax year="2030">46.58422</fixedTax>
+                <fixedTax year="2035">59.454704</fixedTax>
+                <fixedTax year="2040">75.880872</fixedTax>
+                <fixedTax year="2045">96.845304</fixedTax>
+                <fixedTax year="2050">124.448583</fixedTax>
+                <fixedTax year="2055">158.83203</fixedTax>
+                <fixedTax year="2060">204.092</fixedTax>
+                <fixedTax year="2065">262.24</fixedTax>
+                <fixedTax year="2070">334.69125</fixedTax>
+                <fixedTax year="2075">427.16065</fixedTax>
+                <fixedTax year="2080">545.17759</fixedTax>
+                <fixedTax year="2085">695.8002</fixedTax>
+                <fixedTax year="2090">888.03702</fixedTax>
+                <fixedTax year="2095">1133.38489</fixedTax>
+                <fixedTax year="2100">1446.51733</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AL">
+            <ghgpolicy name="CO2">
+                <market>AL</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">35.25</fixedTax>
+                <fixedTax year="2030">44.98887</fixedTax>
+                <fixedTax year="2035">57.418584</fixedTax>
+                <fixedTax year="2040">73.282212</fixedTax>
+                <fixedTax year="2045">93.528684</fixedTax>
+                <fixedTax year="2050">120.215638</fixedTax>
+                <fixedTax year="2055">153.42958</fixedTax>
+                <fixedTax year="2060">197.197</fixedTax>
+                <fixedTax year="2065">251.68</fixedTax>
+                <fixedTax year="2070">321.21375</fixedTax>
+                <fixedTax year="2075">409.95955</fixedTax>
+                <fixedTax year="2080">523.22413</fixedTax>
+                <fixedTax year="2085">667.7814</fixedTax>
+                <fixedTax year="2090">852.27714</fixedTax>
+                <fixedTax year="2095">1087.74523</fixedTax>
+                <fixedTax year="2100">1388.26831</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AR">
+            <ghgpolicy name="CO2">
+                <market>AR</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">33.75</fixedTax>
+                <fixedTax year="2030">42.75538</fixedTax>
+                <fixedTax year="2035">54.568016</fixedTax>
+                <fixedTax year="2040">71.203284</fixedTax>
+                <fixedTax year="2045">91.538712</fixedTax>
+                <fixedTax year="2050">116.829282</fixedTax>
+                <fixedTax year="2055">148.02713</fixedTax>
+                <fixedTax year="2060">186.165</fixedTax>
+                <fixedTax year="2065">235.84</fixedTax>
+                <fixedTax year="2070">300.9975</fixedTax>
+                <fixedTax year="2075">384.1579</fixedTax>
+                <fixedTax year="2080">490.29394</fixedTax>
+                <fixedTax year="2085">616.4136</fixedTax>
+                <fixedTax year="2090">786.71736</fixedTax>
+                <fixedTax year="2095">1011.67913</fixedTax>
+                <fixedTax year="2100">1291.18661</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="AZ">
+            <ghgpolicy name="CO2">
+                <market>AZ</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">29.25</fixedTax>
+                <fixedTax year="2030">37.65026</fixedTax>
+                <fixedTax year="2035">48.459656</fixedTax>
+                <fixedTax year="2040">61.848108</fixedTax>
+                <fixedTax year="2045">77.608908</fixedTax>
+                <fixedTax year="2050">102.437269</fixedTax>
+                <fixedTax year="2055">131.81978</fixedTax>
+                <fixedTax year="2060">170.996</fixedTax>
+                <fixedTax year="2065">220</fixedTax>
+                <fixedTax year="2070">280.78125</fixedTax>
+                <fixedTax year="2075">358.35625</fixedTax>
+                <fixedTax year="2080">453.70484</fixedTax>
+                <fixedTax year="2085">574.3854</fixedTax>
+                <fixedTax year="2090">733.07754</fixedTax>
+                <fixedTax year="2095">928.00642</fixedTax>
+                <fixedTax year="2100">1184.39674</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CA">
+            <ghgpolicy name="CO2">
+                <market>CA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">27.75</fixedTax>
+                <fixedTax year="2030">35.41677</fixedTax>
+                <fixedTax year="2035">45.201864</fixedTax>
+                <fixedTax year="2040">58.729716</fixedTax>
+                <fixedTax year="2045">76.28226</fixedTax>
+                <fixedTax year="2050">98.204324</fixedTax>
+                <fixedTax year="2055">125.33684</fixedTax>
+                <fixedTax year="2060">158.585</fixedTax>
+                <fixedTax year="2065">200.64</fixedTax>
+                <fixedTax year="2070">256.0725</fixedTax>
+                <fixedTax year="2075">326.8209</fixedTax>
+                <fixedTax year="2080">417.11574</fixedTax>
+                <fixedTax year="2085">532.3572</fixedTax>
+                <fixedTax year="2090">679.43772</fixedTax>
+                <fixedTax year="2095">867.15354</fixedTax>
+                <fixedTax year="2100">1106.73138</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CO">
+            <ghgpolicy name="CO2">
+                <market>CO</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">31.5</fixedTax>
+                <fixedTax year="2030">40.20282</fixedTax>
+                <fixedTax year="2035">51.310224</fixedTax>
+                <fixedTax year="2040">65.486232</fixedTax>
+                <fixedTax year="2045">84.242148</fixedTax>
+                <fixedTax year="2050">108.363392</fixedTax>
+                <fixedTax year="2055">140.4637</fixedTax>
+                <fixedTax year="2060">180.649</fixedTax>
+                <fixedTax year="2065">227.04</fixedTax>
+                <fixedTax year="2070">292.0125</fixedTax>
+                <fixedTax year="2075">372.6905</fixedTax>
+                <fixedTax year="2080">464.68157</fixedTax>
+                <fixedTax year="2085">593.0646</fixedTax>
+                <fixedTax year="2090">756.91746</fixedTax>
+                <fixedTax year="2095">966.03947</fixedTax>
+                <fixedTax year="2100">1232.93759</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="CT">
+            <ghgpolicy name="CO2">
+                <market>CT</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">26.75</fixedTax>
+                <fixedTax year="2030">34.14049</fixedTax>
+                <fixedTax year="2035">43.572968</fixedTax>
+                <fixedTax year="2040">55.611324</fixedTax>
+                <fixedTax year="2045">70.975668</fixedTax>
+                <fixedTax year="2050">92.278201</fixedTax>
+                <fixedTax year="2055">117.77341</fixedTax>
+                <fixedTax year="2060">153.069</fixedTax>
+                <fixedTax year="2065">197.12</fixedTax>
+                <fixedTax year="2070">251.58</fixedTax>
+                <fixedTax year="2075">318.22035</fixedTax>
+                <fixedTax year="2080">402.4801</fixedTax>
+                <fixedTax year="2085">509.0082</fixedTax>
+                <fixedTax year="2090">655.5978</fixedTax>
+                <fixedTax year="2095">829.12049</fixedTax>
+                <fixedTax year="2100">1058.19053</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="DC">
+            <ghgpolicy name="CO2">
+                <market>DC</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">25</fixedTax>
+                <fixedTax year="2030">31.907</fixedTax>
+                <fixedTax year="2035">40.7224</fixedTax>
+                <fixedTax year="2040">51.9732</fixedTax>
+                <fixedTax year="2045">66.995724</fixedTax>
+                <fixedTax year="2050">85.505489</fixedTax>
+                <fixedTax year="2055">110.20998</fixedTax>
+                <fixedTax year="2060">140.658</fixedTax>
+                <fixedTax year="2065">179.52</fixedTax>
+                <fixedTax year="2070">229.1175</fixedTax>
+                <fixedTax year="2075">292.4187</fixedTax>
+                <fixedTax year="2080">373.20882</fixedTax>
+                <fixedTax year="2085">476.3196</fixedTax>
+                <fixedTax year="2090">607.91796</fixedTax>
+                <fixedTax year="2095">775.87422</fixedTax>
+                <fixedTax year="2100">990.23334</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="DE">
+            <ghgpolicy name="CO2">
+                <market>DE</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">29.5</fixedTax>
+                <fixedTax year="2030">36.69305</fixedTax>
+                <fixedTax year="2035">46.83076</fixedTax>
+                <fixedTax year="2040">59.76918</fixedTax>
+                <fixedTax year="2045">74.955612</fixedTax>
+                <fixedTax year="2050">94.817968</fixedTax>
+                <fixedTax year="2055">119.93439</fixedTax>
+                <fixedTax year="2060">151.69</fixedTax>
+                <fixedTax year="2065">193.6</fixedTax>
+                <fixedTax year="2070">249.33375</fixedTax>
+                <fixedTax year="2075">309.6198</fixedTax>
+                <fixedTax year="2080">395.16228</fixedTax>
+                <fixedTax year="2085">504.3384</fixedTax>
+                <fixedTax year="2090">643.67784</fixedTax>
+                <fixedTax year="2095">813.90727</fixedTax>
+                <fixedTax year="2100">1038.77419</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="FL">
+            <ghgpolicy name="CO2">
+                <market>FL</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">29</fixedTax>
+                <fixedTax year="2030">37.01212</fixedTax>
+                <fixedTax year="2035">47.645208</fixedTax>
+                <fixedTax year="2040">60.808644</fixedTax>
+                <fixedTax year="2045">78.935556</fixedTax>
+                <fixedTax year="2050">100.744091</fixedTax>
+                <fixedTax year="2055">129.6588</fixedTax>
+                <fixedTax year="2060">164.101</fixedTax>
+                <fixedTax year="2065">204.16</fixedTax>
+                <fixedTax year="2070">260.565</fixedTax>
+                <fixedTax year="2075">329.68775</fixedTax>
+                <fixedTax year="2080">420.77465</fixedTax>
+                <fixedTax year="2085">537.027</fixedTax>
+                <fixedTax year="2090">685.3977</fixedTax>
+                <fixedTax year="2095">874.76015</fixedTax>
+                <fixedTax year="2100">1116.43955</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="GA">
+            <ghgpolicy name="CO2">
+                <market>GA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">30.25</fixedTax>
+                <fixedTax year="2030">38.92654</fixedTax>
+                <fixedTax year="2035">49.681328</fixedTax>
+                <fixedTax year="2040">64.446768</fixedTax>
+                <fixedTax year="2045">82.252176</fixedTax>
+                <fixedTax year="2050">104.130447</fixedTax>
+                <fixedTax year="2055">132.90027</fixedTax>
+                <fixedTax year="2060">168.238</fixedTax>
+                <fixedTax year="2065">214.72</fixedTax>
+                <fixedTax year="2070">271.79625</fixedTax>
+                <fixedTax year="2075">349.7557</fixedTax>
+                <fixedTax year="2080">442.72811</fixedTax>
+                <fixedTax year="2085">560.376</fixedTax>
+                <fixedTax year="2090">715.1976</fixedTax>
+                <fixedTax year="2095">912.7932</fixedTax>
+                <fixedTax year="2100">1155.27223</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="HI">
+            <ghgpolicy name="CO2">
+                <market>HI</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">30.75</fixedTax>
+                <fixedTax year="2030">39.24561</fixedTax>
+                <fixedTax year="2035">50.088552</fixedTax>
+                <fixedTax year="2040">63.407304</fixedTax>
+                <fixedTax year="2045">80.925528</fixedTax>
+                <fixedTax year="2050">104.977036</fixedTax>
+                <fixedTax year="2055">135.06125</fixedTax>
+                <fixedTax year="2060">172.375</fixedTax>
+                <fixedTax year="2065">218.24</fixedTax>
+                <fixedTax year="2070">278.535</fixedTax>
+                <fixedTax year="2075">352.62255</fixedTax>
+                <fixedTax year="2080">450.04593</fixedTax>
+                <fixedTax year="2085">579.0552</fixedTax>
+                <fixedTax year="2090">739.03752</fixedTax>
+                <fixedTax year="2095">935.61303</fixedTax>
+                <fixedTax year="2100">1194.10491</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IA">
+            <ghgpolicy name="CO2">
+                <market>IA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">32</fixedTax>
+                <fixedTax year="2030">40.84096</fixedTax>
+                <fixedTax year="2035">53.346344</fixedTax>
+                <fixedTax year="2040">66.005964</fixedTax>
+                <fixedTax year="2045">80.262204</fixedTax>
+                <fixedTax year="2050">86.352078</fixedTax>
+                <fixedTax year="2055">109.12949</fixedTax>
+                <fixedTax year="2060">139.279</fixedTax>
+                <fixedTax year="2065">177.76</fixedTax>
+                <fixedTax year="2070">226.87125</fixedTax>
+                <fixedTax year="2075">289.55185</fixedTax>
+                <fixedTax year="2080">369.54991</fixedTax>
+                <fixedTax year="2085">471.6498</fixedTax>
+                <fixedTax year="2090">601.95798</fixedTax>
+                <fixedTax year="2095">768.26761</fixedTax>
+                <fixedTax year="2100">980.52517</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ID">
+            <ghgpolicy name="CO2">
+                <market>ID</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">27.5</fixedTax>
+                <fixedTax year="2030">35.0977</fixedTax>
+                <fixedTax year="2035">44.79464</fixedTax>
+                <fixedTax year="2040">57.17052</fixedTax>
+                <fixedTax year="2045">74.292288</fixedTax>
+                <fixedTax year="2050">96.511146</fixedTax>
+                <fixedTax year="2055">123.17586</fixedTax>
+                <fixedTax year="2060">157.206</fixedTax>
+                <fixedTax year="2065">202.4</fixedTax>
+                <fixedTax year="2070">258.31875</fixedTax>
+                <fixedTax year="2075">332.5546</fixedTax>
+                <fixedTax year="2080">428.09247</fixedTax>
+                <fixedTax year="2085">555.7062</fixedTax>
+                <fixedTax year="2090">709.23762</fixedTax>
+                <fixedTax year="2095">905.18659</fixedTax>
+                <fixedTax year="2100">1174.68857</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IL">
+            <ghgpolicy name="CO2">
+                <market>IL</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">32.25</fixedTax>
+                <fixedTax year="2030">41.16003</fixedTax>
+                <fixedTax year="2035">52.124672</fixedTax>
+                <fixedTax year="2040">66.525696</fixedTax>
+                <fixedTax year="2045">85.568796</fixedTax>
+                <fixedTax year="2050">110.05657</fixedTax>
+                <fixedTax year="2055">142.62468</fixedTax>
+                <fixedTax year="2060">183.407</fixedTax>
+                <fixedTax year="2065">234.08</fixedTax>
+                <fixedTax year="2070">298.75125</fixedTax>
+                <fixedTax year="2075">378.4242</fixedTax>
+                <fixedTax year="2080">482.97612</fixedTax>
+                <fixedTax year="2085">621.0834</fixedTax>
+                <fixedTax year="2090">792.67734</fixedTax>
+                <fixedTax year="2095">1004.07252</fixedTax>
+                <fixedTax year="2100">1281.47844</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="IN">
+            <ghgpolicy name="CO2">
+                <market>IN</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">36.25</fixedTax>
+                <fixedTax year="2030">45.94608</fixedTax>
+                <fixedTax year="2035">58.640256</fixedTax>
+                <fixedTax year="2040">74.841408</fixedTax>
+                <fixedTax year="2045">95.518656</fixedTax>
+                <fixedTax year="2050">119.369049</fixedTax>
+                <fixedTax year="2055">150.18811</fixedTax>
+                <fixedTax year="2060">190.302</fixedTax>
+                <fixedTax year="2065">241.12</fixedTax>
+                <fixedTax year="2070">307.73625</fixedTax>
+                <fixedTax year="2075">395.6253</fixedTax>
+                <fixedTax year="2080">508.58849</fixedTax>
+                <fixedTax year="2085">649.1022</fixedTax>
+                <fixedTax year="2090">828.43722</fixedTax>
+                <fixedTax year="2095">1057.31879</fixedTax>
+                <fixedTax year="2100">1349.43563</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="KS">
+            <ghgpolicy name="CO2">
+                <market>KS</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">34</fixedTax>
+                <fixedTax year="2030">43.07445</fixedTax>
+                <fixedTax year="2035">55.382464</fixedTax>
+                <fixedTax year="2040">70.683552</fixedTax>
+                <fixedTax year="2045">90.875388</fixedTax>
+                <fixedTax year="2050">115.982693</fixedTax>
+                <fixedTax year="2055">143.70517</fixedTax>
+                <fixedTax year="2060">182.028</fixedTax>
+                <fixedTax year="2065">232.32</fixedTax>
+                <fixedTax year="2070">296.505</fixedTax>
+                <fixedTax year="2075">381.29105</fixedTax>
+                <fixedTax year="2080">486.63503</fixedTax>
+                <fixedTax year="2085">625.7532</fixedTax>
+                <fixedTax year="2090">798.63732</fixedTax>
+                <fixedTax year="2095">1019.28574</fixedTax>
+                <fixedTax year="2100">1300.89478</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="KY">
+            <ghgpolicy name="CO2">
+                <market>KY</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">36</fixedTax>
+                <fixedTax year="2030">45.62701</fixedTax>
+                <fixedTax year="2035">58.233032</fixedTax>
+                <fixedTax year="2040">74.321676</fixedTax>
+                <fixedTax year="2045">94.192008</fixedTax>
+                <fixedTax year="2050">121.908816</fixedTax>
+                <fixedTax year="2055">154.51007</fixedTax>
+                <fixedTax year="2060">195.818</fixedTax>
+                <fixedTax year="2065">249.92</fixedTax>
+                <fixedTax year="2070">318.9675</fixedTax>
+                <fixedTax year="2075">407.0927</fixedTax>
+                <fixedTax year="2080">519.56522</fixedTax>
+                <fixedTax year="2085">663.1116</fixedTax>
+                <fixedTax year="2090">846.31716</fixedTax>
+                <fixedTax year="2095">1064.9254</fixedTax>
+                <fixedTax year="2100">1359.1438</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="LA">
+            <ghgpolicy name="CO2">
+                <market>LA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">36.75</fixedTax>
+                <fixedTax year="2030">46.90329</fixedTax>
+                <fixedTax year="2035">59.861928</fixedTax>
+                <fixedTax year="2040">76.400604</fixedTax>
+                <fixedTax year="2045">97.508628</fixedTax>
+                <fixedTax year="2050">125.295172</fixedTax>
+                <fixedTax year="2055">159.91252</fixedTax>
+                <fixedTax year="2060">205.471</fixedTax>
+                <fixedTax year="2065">260.48</fixedTax>
+                <fixedTax year="2070">332.445</fixedTax>
+                <fixedTax year="2075">424.2938</fixedTax>
+                <fixedTax year="2080">541.51868</fixedTax>
+                <fixedTax year="2085">691.1304</fixedTax>
+                <fixedTax year="2090">882.07704</fixedTax>
+                <fixedTax year="2095">1125.77828</fixedTax>
+                <fixedTax year="2100">1436.80916</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MA">
+            <ghgpolicy name="CO2">
+                <market>MA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">25.5</fixedTax>
+                <fixedTax year="2030">32.54514</fixedTax>
+                <fixedTax year="2035">41.536848</fixedTax>
+                <fixedTax year="2040">53.012664</fixedTax>
+                <fixedTax year="2045">68.322372</fixedTax>
+                <fixedTax year="2050">88.045256</fixedTax>
+                <fixedTax year="2055">112.37096</fixedTax>
+                <fixedTax year="2060">143.416</fixedTax>
+                <fixedTax year="2065">183.04</fixedTax>
+                <fixedTax year="2070">233.61</fixedTax>
+                <fixedTax year="2075">298.1524</fixedTax>
+                <fixedTax year="2080">380.52664</fixedTax>
+                <fixedTax year="2085">485.6592</fixedTax>
+                <fixedTax year="2090">619.83792</fixedTax>
+                <fixedTax year="2095">791.08744</fixedTax>
+                <fixedTax year="2100">1009.64968</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MD">
+            <ghgpolicy name="CO2">
+                <market>MD</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">27</fixedTax>
+                <fixedTax year="2030">34.45956</fixedTax>
+                <fixedTax year="2035">43.980192</fixedTax>
+                <fixedTax year="2040">56.131056</fixedTax>
+                <fixedTax year="2045">71.638992</fixedTax>
+                <fixedTax year="2050">93.12479</fixedTax>
+                <fixedTax year="2055">118.8539</fixedTax>
+                <fixedTax year="2060">154.448</fixedTax>
+                <fixedTax year="2065">195.36</fixedTax>
+                <fixedTax year="2070">247.0875</fixedTax>
+                <fixedTax year="2075">306.75295</fixedTax>
+                <fixedTax year="2080">391.50337</fixedTax>
+                <fixedTax year="2085">490.329</fixedTax>
+                <fixedTax year="2090">625.7979</fixedTax>
+                <fixedTax year="2095">798.69405</fixedTax>
+                <fixedTax year="2100">1019.35785</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ME">
+            <ghgpolicy name="CO2">
+                <market>ME</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">28.5</fixedTax>
+                <fixedTax year="2030">36.05491</fixedTax>
+                <fixedTax year="2035">46.016312</fixedTax>
+                <fixedTax year="2040">59.249448</fixedTax>
+                <fixedTax year="2045">75.618936</fixedTax>
+                <fixedTax year="2050">97.357735</fixedTax>
+                <fixedTax year="2055">124.25635</fixedTax>
+                <fixedTax year="2060">161.343</fixedTax>
+                <fixedTax year="2065">205.92</fixedTax>
+                <fixedTax year="2070">265.0575</fixedTax>
+                <fixedTax year="2075">341.15515</fixedTax>
+                <fixedTax year="2080">439.0692</fixedTax>
+                <fixedTax year="2085">569.7156</fixedTax>
+                <fixedTax year="2090">744.9975</fixedTax>
+                <fixedTax year="2095">958.43286</fixedTax>
+                <fixedTax year="2100">1223.22942</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MI">
+            <ghgpolicy name="CO2">
+                <market>MI</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">31.25</fixedTax>
+                <fixedTax year="2030">39.56468</fixedTax>
+                <fixedTax year="2035">50.903</fixedTax>
+                <fixedTax year="2040">64.9665</fixedTax>
+                <fixedTax year="2045">82.9155</fixedTax>
+                <fixedTax year="2050">103.283858</fixedTax>
+                <fixedTax year="2055">133.98076</fixedTax>
+                <fixedTax year="2060">173.754</fixedTax>
+                <fixedTax year="2065">223.52</fixedTax>
+                <fixedTax year="2070">285.27375</fixedTax>
+                <fixedTax year="2075">366.9568</fixedTax>
+                <fixedTax year="2080">479.31721</fixedTax>
+                <fixedTax year="2085">607.074</fixedTax>
+                <fixedTax year="2090">774.7974</fixedTax>
+                <fixedTax year="2095">981.25269</fixedTax>
+                <fixedTax year="2100">1252.35393</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MN">
+            <ghgpolicy name="CO2">
+                <market>MN</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">30.5</fixedTax>
+                <fixedTax year="2030">38.2884</fixedTax>
+                <fixedTax year="2035">46.423536</fixedTax>
+                <fixedTax year="2040">58.209984</fixedTax>
+                <fixedTax year="2045">72.96564</fixedTax>
+                <fixedTax year="2050">91.431612</fixedTax>
+                <fixedTax year="2055">115.61243</fixedTax>
+                <fixedTax year="2060">148.932</fixedTax>
+                <fixedTax year="2065">188.32</fixedTax>
+                <fixedTax year="2070">242.595</fixedTax>
+                <fixedTax year="2075">315.3535</fixedTax>
+                <fixedTax year="2080">406.13901</fixedTax>
+                <fixedTax year="2085">523.0176</fixedTax>
+                <fixedTax year="2090">667.51776</fixedTax>
+                <fixedTax year="2095">859.54693</fixedTax>
+                <fixedTax year="2100">1087.31504</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MO">
+            <ghgpolicy name="CO2">
+                <market>MO</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">34.25</fixedTax>
+                <fixedTax year="2030">44.03166</fixedTax>
+                <fixedTax year="2035">55.789688</fixedTax>
+                <fixedTax year="2040">69.644088</fixedTax>
+                <fixedTax year="2045">88.222092</fixedTax>
+                <fixedTax year="2050">111.749748</fixedTax>
+                <fixedTax year="2055">137.22223</fixedTax>
+                <fixedTax year="2060">169.617</fixedTax>
+                <fixedTax year="2065">212.96</fixedTax>
+                <fixedTax year="2070">276.28875</fixedTax>
+                <fixedTax year="2075">355.4894</fixedTax>
+                <fixedTax year="2080">457.36375</fixedTax>
+                <fixedTax year="2085">588.3948</fixedTax>
+                <fixedTax year="2090">750.95748</fixedTax>
+                <fixedTax year="2095">950.82625</fixedTax>
+                <fixedTax year="2100">1203.81308</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MS">
+            <ghgpolicy name="CO2">
+                <market>MS</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">34.5</fixedTax>
+                <fixedTax year="2030">43.71259</fixedTax>
+                <fixedTax year="2035">54.97524</fixedTax>
+                <fixedTax year="2040">70.16382</fixedTax>
+                <fixedTax year="2045">90.212064</fixedTax>
+                <fixedTax year="2050">113.442926</fixedTax>
+                <fixedTax year="2055">144.78566</fixedTax>
+                <fixedTax year="2060">184.786</fixedTax>
+                <fixedTax year="2065">237.6</fixedTax>
+                <fixedTax year="2070">303.24375</fixedTax>
+                <fixedTax year="2075">387.02475</fixedTax>
+                <fixedTax year="2080">493.95285</fixedTax>
+                <fixedTax year="2085">630.423</fixedTax>
+                <fixedTax year="2090">804.5973</fixedTax>
+                <fixedTax year="2095">1026.89235</fixedTax>
+                <fixedTax year="2100">1310.60295</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="MT">
+            <ghgpolicy name="CO2">
+                <market>MT</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">35.75</fixedTax>
+                <fixedTax year="2030">46.26515</fixedTax>
+                <fixedTax year="2035">59.04748</fixedTax>
+                <fixedTax year="2040">75.36114</fixedTax>
+                <fixedTax year="2045">96.18198</fixedTax>
+                <fixedTax year="2050">122.755405</fixedTax>
+                <fixedTax year="2055">156.67105</fixedTax>
+                <fixedTax year="2060">199.955</fixedTax>
+                <fixedTax year="2065">255.2</fixedTax>
+                <fixedTax year="2070">325.70625</fixedTax>
+                <fixedTax year="2075">415.69325</fixedTax>
+                <fixedTax year="2080">530.54195</fixedTax>
+                <fixedTax year="2085">677.121</fixedTax>
+                <fixedTax year="2090">864.1971</fixedTax>
+                <fixedTax year="2095">1102.95845</fixedTax>
+                <fixedTax year="2100">1407.68465</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NC">
+            <ghgpolicy name="CO2">
+                <market>NC</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">28.75</fixedTax>
+                <fixedTax year="2030">37.33119</fixedTax>
+                <fixedTax year="2035">48.052432</fixedTax>
+                <fixedTax year="2040">61.328376</fixedTax>
+                <fixedTax year="2045">76.945584</fixedTax>
+                <fixedTax year="2050">99.050913</fixedTax>
+                <fixedTax year="2055">126.41733</fixedTax>
+                <fixedTax year="2060">162.722</fixedTax>
+                <fixedTax year="2065">209.44</fixedTax>
+                <fixedTax year="2070">267.30375</fixedTax>
+                <fixedTax year="2075">335.42145</fixedTax>
+                <fixedTax year="2080">424.43356</fixedTax>
+                <fixedTax year="2085">541.6968</fixedTax>
+                <fixedTax year="2090">691.35768</fixedTax>
+                <fixedTax year="2095">882.36676</fixedTax>
+                <fixedTax year="2100">1126.14772</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="ND">
+            <ghgpolicy name="CO2">
+                <market>ND</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">37.25</fixedTax>
+                <fixedTax year="2030">47.54143</fixedTax>
+                <fixedTax year="2035">60.676376</fixedTax>
+                <fixedTax year="2040">77.440068</fixedTax>
+                <fixedTax year="2045">98.835276</fixedTax>
+                <fixedTax year="2050">126.141761</fixedTax>
+                <fixedTax year="2055">160.99301</fixedTax>
+                <fixedTax year="2060">202.713</fixedTax>
+                <fixedTax year="2065">256.96</fixedTax>
+                <fixedTax year="2070">327.9525</fixedTax>
+                <fixedTax year="2075">418.5601</fixedTax>
+                <fixedTax year="2080">537.85977</fixedTax>
+                <fixedTax year="2085">686.4606</fixedTax>
+                <fixedTax year="2090">876.11706</fixedTax>
+                <fixedTax year="2095">1118.17167</fixedTax>
+                <fixedTax year="2100">1427.10099</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NE">
+            <ghgpolicy name="CO2">
+                <market>NE</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">33.25</fixedTax>
+                <fixedTax year="2030">43.39352</fixedTax>
+                <fixedTax year="2035">56.604136</fixedTax>
+                <fixedTax year="2040">71.723016</fixedTax>
+                <fixedTax year="2045">88.885416</fixedTax>
+                <fixedTax year="2050">109.209981</fixedTax>
+                <fixedTax year="2055">127.49782</fixedTax>
+                <fixedTax year="2060">144.795</fixedTax>
+                <fixedTax year="2065">184.8</fixedTax>
+                <fixedTax year="2070">240.34875</fixedTax>
+                <fixedTax year="2075">323.95405</fixedTax>
+                <fixedTax year="2080">409.79792</fixedTax>
+                <fixedTax year="2085">518.3478</fixedTax>
+                <fixedTax year="2090">649.63782</fixedTax>
+                <fixedTax year="2095">851.94032</fixedTax>
+                <fixedTax year="2100">1097.02321</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NH">
+            <ghgpolicy name="CO2">
+                <market>NH</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">27.25</fixedTax>
+                <fixedTax year="2030">34.77863</fixedTax>
+                <fixedTax year="2035">44.387416</fixedTax>
+                <fixedTax year="2040">56.650788</fixedTax>
+                <fixedTax year="2045">72.302316</fixedTax>
+                <fixedTax year="2050">93.971379</fixedTax>
+                <fixedTax year="2055">121.01488</fixedTax>
+                <fixedTax year="2060">159.964</fixedTax>
+                <fixedTax year="2065">207.68</fixedTax>
+                <fixedTax year="2070">262.81125</fixedTax>
+                <fixedTax year="2075">338.2883</fixedTax>
+                <fixedTax year="2080">431.75138</fixedTax>
+                <fixedTax year="2085">551.0364</fixedTax>
+                <fixedTax year="2090">703.27764</fixedTax>
+                <fixedTax year="2095">889.97337</fixedTax>
+                <fixedTax year="2100">1135.85589</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NJ">
+            <ghgpolicy name="CO2">
+                <market>NJ</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">30</fixedTax>
+                <fixedTax year="2030">38.60747</fixedTax>
+                <fixedTax year="2035">49.274104</fixedTax>
+                <fixedTax year="2040">62.887572</fixedTax>
+                <fixedTax year="2045">81.588852</fixedTax>
+                <fixedTax year="2050">106.670214</fixedTax>
+                <fixedTax year="2055">138.30272</fixedTax>
+                <fixedTax year="2060">176.512</fixedTax>
+                <fixedTax year="2065">230.56</fixedTax>
+                <fixedTax year="2070">294.25875</fixedTax>
+                <fixedTax year="2075">369.82365</fixedTax>
+                <fixedTax year="2080">468.34048</fixedTax>
+                <fixedTax year="2085">597.7344</fixedTax>
+                <fixedTax year="2090">762.87744</fixedTax>
+                <fixedTax year="2095">973.64608</fixedTax>
+                <fixedTax year="2100">1242.64576</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NM">
+            <ghgpolicy name="CO2">
+                <market>NM</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">34.75</fixedTax>
+                <fixedTax year="2030">44.6698</fixedTax>
+                <fixedTax year="2035">57.01136</fixedTax>
+                <fixedTax year="2040">72.76248</fixedTax>
+                <fixedTax year="2045">92.202036</fixedTax>
+                <fixedTax year="2050">117.675871</fixedTax>
+                <fixedTax year="2055">151.2686</fixedTax>
+                <fixedTax year="2060">194.439</fixedTax>
+                <fixedTax year="2065">246.4</fixedTax>
+                <fixedTax year="2070">314.475</fixedTax>
+                <fixedTax year="2075">401.359</fixedTax>
+                <fixedTax year="2080">515.90631</fixedTax>
+                <fixedTax year="2085">658.4418</fixedTax>
+                <fixedTax year="2090">840.35718</fixedTax>
+                <fixedTax year="2095">1080.13862</fixedTax>
+                <fixedTax year="2100">1378.56014</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NV">
+            <ghgpolicy name="CO2">
+                <market>NV</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">28</fixedTax>
+                <fixedTax year="2030">35.73584</fixedTax>
+                <fixedTax year="2035">45.609088</fixedTax>
+                <fixedTax year="2040">57.690252</fixedTax>
+                <fixedTax year="2045">73.628964</fixedTax>
+                <fixedTax year="2050">95.664557</fixedTax>
+                <fixedTax year="2055">122.09537</fixedTax>
+                <fixedTax year="2060">155.827</fixedTax>
+                <fixedTax year="2065">198.88</fixedTax>
+                <fixedTax year="2070">253.82625</fixedTax>
+                <fixedTax year="2075">321.0872</fixedTax>
+                <fixedTax year="2080">413.45683</fixedTax>
+                <fixedTax year="2085">527.6874</fixedTax>
+                <fixedTax year="2090">673.47774</fixedTax>
+                <fixedTax year="2095">844.33371</fixedTax>
+                <fixedTax year="2100">1067.8987</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="NY">
+            <ghgpolicy name="CO2">
+                <market>NY</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">25.75</fixedTax>
+                <fixedTax year="2030">33.50235</fixedTax>
+                <fixedTax year="2035">42.75852</fixedTax>
+                <fixedTax year="2040">55.091592</fixedTax>
+                <fixedTax year="2045">70.312344</fixedTax>
+                <fixedTax year="2050">90.585023</fixedTax>
+                <fixedTax year="2055">116.69292</fixedTax>
+                <fixedTax year="2060">150.311</fixedTax>
+                <fixedTax year="2065">190.08</fixedTax>
+                <fixedTax year="2070">238.1025</fixedTax>
+                <fixedTax year="2075">303.8861</fixedTax>
+                <fixedTax year="2080">387.84446</fixedTax>
+                <fixedTax year="2085">494.9988</fixedTax>
+                <fixedTax year="2090">631.75788</fixedTax>
+                <fixedTax year="2095">806.30066</fixedTax>
+                <fixedTax year="2100">1029.06602</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OH">
+            <ghgpolicy name="CO2">
+                <market>OH</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">33</fixedTax>
+                <fixedTax year="2030">42.11724</fixedTax>
+                <fixedTax year="2035">52.93912</fixedTax>
+                <fixedTax year="2040">67.045428</fixedTax>
+                <fixedTax year="2045">84.905472</fixedTax>
+                <fixedTax year="2050">107.516803</fixedTax>
+                <fixedTax year="2055">139.38321</fixedTax>
+                <fixedTax year="2060">179.27</fixedTax>
+                <fixedTax year="2065">228.8</fixedTax>
+                <fixedTax year="2070">287.52</fixedTax>
+                <fixedTax year="2075">364.08995</fixedTax>
+                <fixedTax year="2080">471.99939</fixedTax>
+                <fixedTax year="2085">611.7438</fixedTax>
+                <fixedTax year="2090">780.75738</fixedTax>
+                <fixedTax year="2095">988.8593</fixedTax>
+                <fixedTax year="2100">1262.0621</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OK">
+            <ghgpolicy name="CO2">
+                <market>OK</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">35</fixedTax>
+                <fixedTax year="2030">44.35073</fixedTax>
+                <fixedTax year="2035">56.196912</fixedTax>
+                <fixedTax year="2040">72.242748</fixedTax>
+                <fixedTax year="2045">92.86536</fixedTax>
+                <fixedTax year="2050">118.52246</fixedTax>
+                <fixedTax year="2055">152.34909</fixedTax>
+                <fixedTax year="2060">191.681</fixedTax>
+                <fixedTax year="2065">244.64</fixedTax>
+                <fixedTax year="2070">312.22875</fixedTax>
+                <fixedTax year="2075">404.22585</fixedTax>
+                <fixedTax year="2080">512.2474</fixedTax>
+                <fixedTax year="2085">653.772</fixedTax>
+                <fixedTax year="2090">834.3972</fixedTax>
+                <fixedTax year="2095">1072.53201</fixedTax>
+                <fixedTax year="2100">1368.85197</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="OR">
+            <ghgpolicy name="CO2">
+                <market>OR</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">26.5</fixedTax>
+                <fixedTax year="2030">33.82142</fixedTax>
+                <fixedTax year="2035">43.165744</fixedTax>
+                <fixedTax year="2040">54.57186</fixedTax>
+                <fixedTax year="2045">69.64902</fixedTax>
+                <fixedTax year="2050">89.738434</fixedTax>
+                <fixedTax year="2055">114.53194</fixedTax>
+                <fixedTax year="2060">146.174</fixedTax>
+                <fixedTax year="2065">186.56</fixedTax>
+                <fixedTax year="2070">235.85625</fixedTax>
+                <fixedTax year="2075">301.01925</fixedTax>
+                <fixedTax year="2080">384.18555</fixedTax>
+                <fixedTax year="2085">499.6686</fixedTax>
+                <fixedTax year="2090">637.71786</fixedTax>
+                <fixedTax year="2095">821.51388</fixedTax>
+                <fixedTax year="2100">1048.48236</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="PA">
+            <ghgpolicy name="CO2">
+                <market>PA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">32.75</fixedTax>
+                <fixedTax year="2030">41.79817</fixedTax>
+                <fixedTax year="2035">53.753568</fixedTax>
+                <fixedTax year="2040">68.604624</fixedTax>
+                <fixedTax year="2045">87.558768</fixedTax>
+                <fixedTax year="2050">112.596337</fixedTax>
+                <fixedTax year="2055">145.86615</fixedTax>
+                <fixedTax year="2060">188.923</fixedTax>
+                <fixedTax year="2065">242.88</fixedTax>
+                <fixedTax year="2070">309.9825</fixedTax>
+                <fixedTax year="2075">392.75845</fixedTax>
+                <fixedTax year="2080">501.27067</fixedTax>
+                <fixedTax year="2085">644.4324</fixedTax>
+                <fixedTax year="2090">816.51726</fixedTax>
+                <fixedTax year="2095">1042.10557</fixedTax>
+                <fixedTax year="2100">1330.01929</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="RI">
+            <ghgpolicy name="CO2">
+                <market>RI</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">26.25</fixedTax>
+                <fixedTax year="2030">33.18328</fixedTax>
+                <fixedTax year="2035">42.351296</fixedTax>
+                <fixedTax year="2040">53.532396</fixedTax>
+                <fixedTax year="2045">67.659048</fixedTax>
+                <fixedTax year="2050">87.198667</fixedTax>
+                <fixedTax year="2055">111.29047</fixedTax>
+                <fixedTax year="2060">142.037</fixedTax>
+                <fixedTax year="2065">181.28</fixedTax>
+                <fixedTax year="2070">231.36375</fixedTax>
+                <fixedTax year="2075">295.28555</fixedTax>
+                <fixedTax year="2080">376.86773</fixedTax>
+                <fixedTax year="2085">480.9894</fixedTax>
+                <fixedTax year="2090">613.87794</fixedTax>
+                <fixedTax year="2095">783.48083</fixedTax>
+                <fixedTax year="2100">999.94151</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="SC">
+            <ghgpolicy name="CO2">
+                <market>SC</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">31.75</fixedTax>
+                <fixedTax year="2030">40.52189</fixedTax>
+                <fixedTax year="2035">51.717448</fixedTax>
+                <fixedTax year="2040">68.084892</fixedTax>
+                <fixedTax year="2045">86.895444</fixedTax>
+                <fixedTax year="2050">114.289515</fixedTax>
+                <fixedTax year="2055">149.10762</fixedTax>
+                <fixedTax year="2060">193.06</fixedTax>
+                <fixedTax year="2065">248.16</fixedTax>
+                <fixedTax year="2070">316.72125</fixedTax>
+                <fixedTax year="2075">398.49215</fixedTax>
+                <fixedTax year="2080">504.92958</fixedTax>
+                <fixedTax year="2085">635.0928</fixedTax>
+                <fixedTax year="2090">810.55728</fixedTax>
+                <fixedTax year="2095">1034.49896</fixedTax>
+                <fixedTax year="2100">1320.31112</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="SD">
+            <ghgpolicy name="CO2">
+                <market>SD</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">25.25</fixedTax>
+                <fixedTax year="2030">32.22607</fixedTax>
+                <fixedTax year="2035">41.129624</fixedTax>
+                <fixedTax year="2040">52.492932</fixedTax>
+                <fixedTax year="2045">66.3324</fixedTax>
+                <fixedTax year="2050">84.6589</fixedTax>
+                <fixedTax year="2055">108.049</fixedTax>
+                <fixedTax year="2060">137.9</fixedTax>
+                <fixedTax year="2065">176</fixedTax>
+                <fixedTax year="2070">224.625</fixedTax>
+                <fixedTax year="2075">286.685</fixedTax>
+                <fixedTax year="2080">365.891</fixedTax>
+                <fixedTax year="2085">466.98</fixedTax>
+                <fixedTax year="2090">595.998</fixedTax>
+                <fixedTax year="2095">760.661</fixedTax>
+                <fixedTax year="2100">970.817</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="TN">
+            <ghgpolicy name="CO2">
+                <market>TN</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">31</fixedTax>
+                <fixedTax year="2030">39.88375</fixedTax>
+                <fixedTax year="2035">50.495776</fixedTax>
+                <fixedTax year="2040">63.927036</fixedTax>
+                <fixedTax year="2045">83.578824</fixedTax>
+                <fixedTax year="2050">105.823625</fixedTax>
+                <fixedTax year="2055">136.14174</fixedTax>
+                <fixedTax year="2060">175.133</fixedTax>
+                <fixedTax year="2065">225.28</fixedTax>
+                <fixedTax year="2070">289.76625</fixedTax>
+                <fixedTax year="2075">375.55735</fixedTax>
+                <fixedTax year="2080">475.6583</fixedTax>
+                <fixedTax year="2085">602.4042</fixedTax>
+                <fixedTax year="2090">768.83742</fixedTax>
+                <fixedTax year="2095">996.46591</fixedTax>
+                <fixedTax year="2100">1271.77027</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="TX">
+            <ghgpolicy name="CO2">
+                <market>TX</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">35.5</fixedTax>
+                <fixedTax year="2030">45.30794</fixedTax>
+                <fixedTax year="2035">57.825808</fixedTax>
+                <fixedTax year="2040">73.801944</fixedTax>
+                <fixedTax year="2045">94.855332</fixedTax>
+                <fixedTax year="2050">121.062227</fixedTax>
+                <fixedTax year="2055">155.59056</fixedTax>
+                <fixedTax year="2060">198.576</fixedTax>
+                <fixedTax year="2065">253.44</fixedTax>
+                <fixedTax year="2070">323.46</fixedTax>
+                <fixedTax year="2075">412.8264</fixedTax>
+                <fixedTax year="2080">526.88304</fixedTax>
+                <fixedTax year="2085">672.4512</fixedTax>
+                <fixedTax year="2090">858.23712</fixedTax>
+                <fixedTax year="2095">1095.35184</fixedTax>
+                <fixedTax year="2100">1397.97648</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="UT">
+            <ghgpolicy name="CO2">
+                <market>UT</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">33.5</fixedTax>
+                <fixedTax year="2030">42.43631</fixedTax>
+                <fixedTax year="2035">54.160792</fixedTax>
+                <fixedTax year="2040">69.124356</fixedTax>
+                <fixedTax year="2045">89.54874</fixedTax>
+                <fixedTax year="2050">115.136104</fixedTax>
+                <fixedTax year="2055">146.94664</fixedTax>
+                <fixedTax year="2060">187.544</fixedTax>
+                <fixedTax year="2065">239.36</fixedTax>
+                <fixedTax year="2070">305.49</fixedTax>
+                <fixedTax year="2075">389.8916</fixedTax>
+                <fixedTax year="2080">497.61176</fixedTax>
+                <fixedTax year="2085">639.7626</fixedTax>
+                <fixedTax year="2090">822.47724</fixedTax>
+                <fixedTax year="2095">1049.71218</fixedTax>
+                <fixedTax year="2100">1339.72746</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="VA">
+            <ghgpolicy name="CO2">
+                <market>VA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">28.25</fixedTax>
+                <fixedTax year="2030">36.37398</fixedTax>
+                <fixedTax year="2035">47.237984</fixedTax>
+                <fixedTax year="2040">60.288912</fixedTax>
+                <fixedTax year="2045">78.272232</fixedTax>
+                <fixedTax year="2050">101.59068</fixedTax>
+                <fixedTax year="2055">130.73929</fixedTax>
+                <fixedTax year="2060">166.859</fixedTax>
+                <fixedTax year="2065">216.48</fixedTax>
+                <fixedTax year="2070">274.0425</fixedTax>
+                <fixedTax year="2075">346.88885</fixedTax>
+                <fixedTax year="2080">435.41029</fixedTax>
+                <fixedTax year="2085">546.3666</fixedTax>
+                <fixedTax year="2090">697.31766</fixedTax>
+                <fixedTax year="2095">897.57998</fixedTax>
+                <fixedTax year="2100">1145.56406</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="VT">
+            <ghgpolicy name="CO2">
+                <market>VT</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">26</fixedTax>
+                <fixedTax year="2030">32.86421</fixedTax>
+                <fixedTax year="2035">41.944072</fixedTax>
+                <fixedTax year="2040">54.052128</fixedTax>
+                <fixedTax year="2045">68.985696</fixedTax>
+                <fixedTax year="2050">88.891845</fixedTax>
+                <fixedTax year="2055">113.45145</fixedTax>
+                <fixedTax year="2060">147.553</fixedTax>
+                <fixedTax year="2065">191.84</fixedTax>
+                <fixedTax year="2070">244.84125</fixedTax>
+                <fixedTax year="2075">312.48665</fixedTax>
+                <fixedTax year="2080">398.82119</fixedTax>
+                <fixedTax year="2085">513.678</fixedTax>
+                <fixedTax year="2090">661.55778</fixedTax>
+                <fixedTax year="2095">836.7271</fixedTax>
+                <fixedTax year="2100">1077.60687</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WA">
+            <ghgpolicy name="CO2">
+                <market>WA</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">29.75</fixedTax>
+                <fixedTax year="2030">37.96933</fixedTax>
+                <fixedTax year="2035">48.86688</fixedTax>
+                <fixedTax year="2040">62.36784</fixedTax>
+                <fixedTax year="2045">79.59888</fixedTax>
+                <fixedTax year="2050">99.897502</fixedTax>
+                <fixedTax year="2055">128.57831</fixedTax>
+                <fixedTax year="2060">165.48</fixedTax>
+                <fixedTax year="2065">211.2</fixedTax>
+                <fixedTax year="2070">269.55</fixedTax>
+                <fixedTax year="2075">344.022</fixedTax>
+                <fixedTax year="2080">446.38702</fixedTax>
+                <fixedTax year="2085">565.0458</fixedTax>
+                <fixedTax year="2090">727.11756</fixedTax>
+                <fixedTax year="2095">943.21964</fixedTax>
+                <fixedTax year="2100">1213.52125</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WI">
+            <ghgpolicy name="CO2">
+                <market>WI</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">32.5</fixedTax>
+                <fixedTax year="2030">41.4791</fixedTax>
+                <fixedTax year="2035">52.531896</fixedTax>
+                <fixedTax year="2040">67.56516</fixedTax>
+                <fixedTax year="2045">86.23212</fixedTax>
+                <fixedTax year="2050">110.903159</fixedTax>
+                <fixedTax year="2055">141.54419</fixedTax>
+                <fixedTax year="2060">177.891</fixedTax>
+                <fixedTax year="2065">221.76</fixedTax>
+                <fixedTax year="2070">283.0275</fixedTax>
+                <fixedTax year="2075">361.2231</fixedTax>
+                <fixedTax year="2080">461.02266</fixedTax>
+                <fixedTax year="2085">583.725</fixedTax>
+                <fixedTax year="2090">721.15758</fixedTax>
+                <fixedTax year="2095">920.39981</fixedTax>
+                <fixedTax year="2100">1164.9804</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WV">
+            <ghgpolicy name="CO2">
+                <market>WV</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">37</fixedTax>
+                <fixedTax year="2030">47.22236</fixedTax>
+                <fixedTax year="2035">60.269152</fixedTax>
+                <fixedTax year="2040">76.920336</fixedTax>
+                <fixedTax year="2045">98.171952</fixedTax>
+                <fixedTax year="2050">123.601994</fixedTax>
+                <fixedTax year="2055">157.75154</fixedTax>
+                <fixedTax year="2060">201.334</fixedTax>
+                <fixedTax year="2065">258.72</fixedTax>
+                <fixedTax year="2070">330.19875</fixedTax>
+                <fixedTax year="2075">421.42695</fixedTax>
+                <fixedTax year="2080">534.20086</fixedTax>
+                <fixedTax year="2085">681.7908</fixedTax>
+                <fixedTax year="2090">870.15708</fixedTax>
+                <fixedTax year="2095">1110.56506</fixedTax>
+                <fixedTax year="2100">1417.39282</fixedTax>
+            </ghgpolicy>
+        </region>
+        <region name="WY">
+            <ghgpolicy name="CO2">
+                <market>WY</market>
+                <fixedTax year="1990">0</fixedTax>
+                <fixedTax year="2005">0</fixedTax>
+                <fixedTax year="2010">0</fixedTax>
+                <fixedTax year="2015">0</fixedTax>
+                <fixedTax year="2020">0</fixedTax>
+                <fixedTax year="2025">37.5</fixedTax>
+                <fixedTax year="2030">47.8605</fixedTax>
+                <fixedTax year="2035">61.0836</fixedTax>
+                <fixedTax year="2040">77.9598</fixedTax>
+                <fixedTax year="2045">99.4986</fixedTax>
+                <fixedTax year="2050">126.98835</fixedTax>
+                <fixedTax year="2055">162.0735</fixedTax>
+                <fixedTax year="2060">206.85</fixedTax>
+                <fixedTax year="2065">264</fixedTax>
+                <fixedTax year="2070">336.9375</fixedTax>
+                <fixedTax year="2075">430.0275</fixedTax>
+                <fixedTax year="2080">548.8365</fixedTax>
+                <fixedTax year="2085">700.47</fixedTax>
+                <fixedTax year="2090">893.997</fixedTax>
+                <fixedTax year="2095">1140.9915</fixedTax>
+                <fixedTax year="2100">1456.2255</fixedTax>
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>
